@@ -1,0 +1,17 @@
+{
+  "name": "taco-bot",
+  "version": "1.0.0",
+  "description": "TACOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Waffle",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "minecraft-server-util": "^3.4.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1"
+  }
+}
